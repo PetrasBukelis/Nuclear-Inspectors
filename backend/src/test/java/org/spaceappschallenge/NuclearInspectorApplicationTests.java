@@ -1,13 +1,13 @@
 package org.spaceappschallenge;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class NuclearInspectorApplicationTests {
+public class NuclearInspectorApplicationTests {
 
 	@Test
-	void contextLoads() {
+	public void contextLoads() {
 	}
 
 }
